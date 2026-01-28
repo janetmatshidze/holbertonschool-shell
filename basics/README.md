@@ -11,3 +11,5 @@ This directory contains shell scripts.
 3-listfiles displays the content in a long format of the current directory.
 
 4-listmorefiles displays all files including hidden files.
+
+5-listfilesdigitonly displays current directory contents in long format, including hidden files, with numeric user and group IDs.
