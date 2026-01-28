@@ -13,3 +13,5 @@ This directory contains shell scripts.
 4-listmorefiles displays all files including hidden files.
 
 5-listfilesdigitonly displays current directory contents in long format, including hidden files, with numeric user and group IDs.
+
+6-firstdirectory creates a sub directory within a parent directory.
