@@ -9,3 +9,5 @@ This directory contains shell scripts.
 2-bring_me_home changes the working directory to the user's home directory.
 
 3-listfiles displays the content in a long format of the current directory.
+
+4-listmorefiles displays all files including hidden files.
