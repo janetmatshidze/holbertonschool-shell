@@ -1,2 +1,6 @@
 # Basics
-This directory contains scripts that demonstrate basic shell commands and navigation.
+
+This directory contains shell scripts.
+
+0-current_working_directory prints the absolute path of the current working directory.
+
