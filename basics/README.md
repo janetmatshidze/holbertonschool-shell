@@ -1,4 +1,4 @@
-# Basics
+# Basics 
 
 This directory contains shell scripts.
 
@@ -29,3 +29,7 @@ This directory contains shell scripts.
 12-file_type prints the type of file in a directory.
 
 13-symbolic_link creates a symblic link in the current woring directory.
+
+14-copy_html copies all HTML scripts from the current working directory to the parent directory.
+
+15-lets_move moves all files beginning with an uppercase letter to the directory /tmp/u
