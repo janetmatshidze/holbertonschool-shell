@@ -28,3 +28,4 @@ This directory contains shell scripts.
 
 12-file_type prints the type of file in a directory.
 
+13-symbolic_link creates a symblic link in the current woring directory.
