@@ -23,3 +23,5 @@ This directory contains shell scripts.
 9-firstdirdeletion deletes the my_first_directory from the /tmp directory.
 
 10-back changes the working directory to the previous one.
+
+11-lists lists all files even the ones beginning iwth a period character which arenormally hidden.
