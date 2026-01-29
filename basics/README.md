@@ -17,3 +17,5 @@ This directory contains shell scripts.
 6-firstdirectory creates a sub directory within a parent directory.
 
 7-movethatfile moves the file betty to /tmp/my_first_directory.
+
+8-firstdelete deletes the betty file in the /tmp/my_first_directory
