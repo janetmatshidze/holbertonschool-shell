@@ -36,3 +36,4 @@ This directory contains shell scripts.
 
 16-clean_emacs deletes all files in the current working directory that end with the character ~.
 
+17-tree creates directories in the current directory.
