@@ -32,4 +32,7 @@ This directory contains shell scripts.
 
 14-copy_html copies all HTML scripts from the current working directory to the parent directory.
 
-15-lets_move moves all files beginning with an uppercase letter to the directory /tmp/u
+15-lets_move moves all files beginning with an uppercase letter to the directory /tmp/u.
+
+16-clean_emacs deletes all files in the current working directory that end with the character ~.
+
