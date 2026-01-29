@@ -18,4 +18,8 @@ This directory contains shell scripts.
 
 7-movethatfile moves the file betty to /tmp/my_first_directory.
 
-8-firstdelete deletes the betty file in the /tmp/my_first_directory
+8-firstdelete deletes the betty file in the /tmp/my_first_directory.
+
+9-firstdirdeletion deletes the my_first_directory from the /tmp directory.
+
+10-back changes the working directory to the previous one.
